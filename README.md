@@ -1,4 +1,4 @@
-## Proje 2  ( binary search tree ) www.patika.dev
+## Proje 3  ( binary search tree ) www.patika.dev
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
